@@ -11,4 +11,6 @@
 
 ## Instalar & actualizar
 
+Los comandos para instalar y actualizar serán listados a continuación
+
 ### Instalar
