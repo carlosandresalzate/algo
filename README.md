@@ -8,3 +8,7 @@
 ## Introducción
 
 **Algo** es un proyecto de practica sobre **GIT** y **GitHub**
+
+## Instalar & actualizar
+
+### Instalar
