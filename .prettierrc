@@ -24,11 +24,9 @@
 		{
 			"files": [
 				"*.js",
-				"*.json",
-				".prettierrc"
+				"*.json"
 			],
 			"options": {
-				"parser": "json",
 				"arrowParens": "always",
 				"bracketSpacing": true,
 				"htmlWhitespaceSensitivity": "css",
@@ -44,6 +42,13 @@
 				"trailingComma": "es5",
 				"useTabs": false,
 				"vueIndentScriptAndStyle": false
+			}
+		},
+		{
+			"files": ".prettierrc",
+			"options": {
+				"parser": "json",
+				"tabWidth": 2
 			}
 		}
 	]
