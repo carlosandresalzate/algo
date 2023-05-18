@@ -1,0 +1,21 @@
+root = true # esto define el archivo raiz
+
+[*]
+end_of_line = lf # es la convencion que vamos a usar a diferencia de crlf
+charset = utf-8
+indent_style = tab
+indent_size = 4
+
+trim_trailing_whitespace = true # al pulsar guardar se limpian los espacio al final de linea
+insert_final_newline = true # agrega una linea en blanco al final
+
+[*.{js, css}]
+max_line_length = 80 # maxima cantidad de caracteres por linea
+
+[*.json]
+indent_style = tab
+indent_size = 2
+
+[.prettierrc]
+indent_style = tab
+indent_size = 2
