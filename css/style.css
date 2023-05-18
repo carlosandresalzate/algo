@@ -1,0 +1,25 @@
+/**
+* agrego paleta de colores de Dracula theme
+*/
+:root {
+    --background: #22212C;
+    --foreground: #F8F8F2;
+    --cyan: #80FFEA;
+    --green: #8AFF80;
+    --orange: #FFCA80;
+    --pink: #FF80BF;
+    --purple: #9580FF;
+    --red: #FF9580;
+    --yellow: #FFFF80;
+    --comment: #7970A9;
+    --selection: #454158;
+}
+
+body {
+    background-color: var(--background);
+    color: var(--foreground);
+}
+
+#green {
+    color: var(--green);
+}
